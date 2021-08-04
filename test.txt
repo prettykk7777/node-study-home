@@ -1,0 +1,8 @@
+2021.8.4
+
+node
+npm init
+npm i express
+npm i express-generator
+sudo express --view-ejs
+npm i mongodb@3.6.4
